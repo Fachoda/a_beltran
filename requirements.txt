@@ -1,0 +1,10 @@
+simplejson
+zeep
+python-stdnum==1.13
+pycountry
+numpy-financial
+
+lxml
+cryptography==3.4.8
+pyOpenSSL
+pyqrcode
